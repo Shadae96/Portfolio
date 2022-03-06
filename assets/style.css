@@ -1,7 +1,7 @@
 *{margin: 0;
 padding:0;
 list-style: none;
-box-sizing: border-box;}
+box-sizing: bordr-box;}
 
 
 header{
@@ -32,6 +32,13 @@ nav {
   }
 
 body {background:rgb(145, 89, 145);}
+
+
+
+btn { 
+
+
+}
 
 main {
     display: flex;
