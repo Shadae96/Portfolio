@@ -1,4 +1,4 @@
-# title Portfolio
+# Portfolio
   
   ## Descritpion
   This professional portfolio highlights my skills as a web developer. My apps and projects are focused on the MERN stack and span several languages and technologies such as JavaScript, HTML/CSS, Node.js, Express.js, SQL, and React.
