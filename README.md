@@ -32,5 +32,4 @@
   Shadae Brown
   
   ## Questions for additional question you can contact me here:
-  Github:github.com/shadae96 
-  email: shadaeamoy@gmail.com
+  shadaeamoy@gmail.com
