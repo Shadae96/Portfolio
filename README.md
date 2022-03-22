@@ -31,5 +31,5 @@
   ## Contributions
   Shadae Brown
   
-  ## Questions for additional question you can contact me here:
-  shadaeamoy@gmail.com
+  ## Questions 
+  contact me at shadaeamoy@gmail.com for additional questions
